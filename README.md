@@ -11,7 +11,7 @@
 
 * Para obter ajuda e/ou tirar dúvidas, entre em contato com o desenvolver através do e-mail:
 
-daniel.araujo.ete@gmail.com
+* daniel.araujo.ete@gmail.com
 
 # **ATUALIZAÇÃO**
 
