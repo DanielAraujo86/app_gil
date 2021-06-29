@@ -1,8 +1,10 @@
+import 'package:app_1/telas/home.dart';
 import 'package:flutter/material.dart';
 
 class ResultadoPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
+    
     return Scaffold(
       body: _body(context),
     );
@@ -10,58 +12,43 @@ class ResultadoPage extends StatelessWidget {
 
   _body(context) {
     return MaterialApp(
-      debugShowCheckedModeBanner: false,
+        debugShowCheckedModeBanner: false,
         home: Scaffold(
-            appBar: AppBar(title: Text('Coleta Seletiva')),
+            appBar: AppBar(
+                backgroundColor: Colors.green[900],
+                title: Text(
+                  "Parabéns, ${HomePage.nome}!!",
+                  style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20.0),
+                )),
             body: Center(
                 child: Container(
                     constraints: BoxConstraints.expand(),
                     decoration: BoxDecoration(
                         image: DecorationImage(
-                            image: AssetImage(
-                                "assets/imagens/Coleta_seletiva_2.jpeg"),
-                            fit: BoxFit.cover)),
-                    child: Center(
-                      child: Row(
-            children: <Widget>[
-              Container(
-              child: Text(
-                        'Set Full Screen Background',
-                        textAlign: TextAlign.center,
-                        style: TextStyle(
-                            color: Colors.brown,
-                            fontSize: 25,
-                            fontWeight: FontWeight.bold),
-                      ),
-            ) ,
-              Container(
-              child: ElevatedButton(
-                onPressed: () {
-                  Navigator.of(context).pushNamed('home');
-                },
-                child: Text('Proximo')),
-            )])))))); 
-                      
-                      
-                     
-                      
-                    
-    /* return Scaffold(
-      body: Container(
-        decoration: BoxDecoration(
-          image: DecorationImage(
-            image: AssetImage("assets/imagens/Coleta_seletiva_2.jpeg"),
-            fit: BoxFit.cover,
-          ),
-        ),
-        child: SafeArea(
-        child: SingleChildScrollView(
-          child: Column(children: [
-            
-          ]),
-        ),
-      ),
-    ));
-  }*/
+                            image: AssetImage("assets/imagens/resultado2.jpeg"),
+                            fit: BoxFit.fill)),
+                    child: Column(
+                      mainAxisAlignment: MainAxisAlignment.spaceAround,
+                      children: [
+                        ListTile(
+                              title: Text(
+                                "A amiguinha Maria conseguiu melhorar seu planeta!!!.",
+                                textAlign: TextAlign.center,
+                                style: TextStyle(
+                                  fontSize: 22,
+                                  fontWeight: FontWeight.bold
+                                ),
+                              ),
+                            ),
+                        ElevatedButton(
+                        onPressed: () {
+                          Navigator.of(context).pushNamed('home');
+                        },
+                        child: Padding(
+                          padding: const EdgeInsets.all(16.0),
+                          child: Text('Proximo', style: TextStyle(fontSize: 22),),
+                        )),
+                      ],
+                    )))));
   }
 }

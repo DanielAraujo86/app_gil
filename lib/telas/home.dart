@@ -1,17 +1,16 @@
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
-  String nomeUsuario = "";
+  static String nome = "";
   @override
   Widget build(BuildContext context) {
-    
     return Scaffold(
       body: _body(context),
     );
   }
 
   _body(context) {
+    String nome = "";
     return Scaffold(
       body: SafeArea(
         child: SingleChildScrollView(
@@ -27,7 +26,7 @@ class HomePage extends StatelessWidget {
             ),
             TextFormField(
               onChanged: (text) {
-               this.nomeUsuario = text;
+                HomePage.nome = text;
               },
               decoration: const InputDecoration(
                 icon: Icon(Icons.person),
@@ -48,7 +47,7 @@ class HomePage extends StatelessWidget {
             ),
             ElevatedButton(
                 onPressed: () {
-                  Navigator.of(context).pushNamed('game');
+                  Navigator.of(context).pushNamed('game', arguments: nome);
                 },
                 child: Text('Proximo'))
           ]),
