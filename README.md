@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/DanielAraujo86/app_gil/main/assets/imagens/Coleta_seletiva_2.jpeg" width="400" height="400"/>
+
 # **APP COLETA SELETIVA**
 
 * Usa estratégia de gamificação para ensino da importância da coleta seletiva de resíduos sólidos dando pontos positivos para itens coletados e informações sobre o impacto ambiental dos itens.
