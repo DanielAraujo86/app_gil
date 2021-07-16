@@ -9,6 +9,10 @@
 
 * Animações sobre informações dos itens
 
+# **WIDGET TREE**
+
+<img src="https://raw.githubusercontent.com/DanielAraujo86/app_gil/main/assets/imagens/Coleta_seletiva_2.jpeg" width="400" height="400"/>
+
 # **AJUDA**
 
 * Para obter ajuda e/ou tirar dúvidas, entre em contato com o desenvolver através do e-mail:
