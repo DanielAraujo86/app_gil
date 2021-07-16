@@ -11,7 +11,14 @@
 
 # **WIDGET TREE**
 
-<img src="https://raw.githubusercontent.com/DanielAraujo86/app_gil/main/assets/imagens/Coleta_seletiva_2.jpeg" width="400" height="400"/>
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/HomePage.jpg" width="400" height="600"/>
+
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Game.jpg" width="400" height="600"/>
+
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Resultado.jpg" width="400" height="600"/>
+
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Impacto.jpg" width="400" height="600"/>
+
 
 # **AJUDA**
 
