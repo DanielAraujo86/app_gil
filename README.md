@@ -20,6 +20,11 @@
 <img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Impacto.jpg" width="400" height="600"/>
 
 
+# **NAVEGAÇÃO DAS TELAS**
+
+
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Navega%C3%A7%C3%A3o%20das%20telas.jpg" width="600" height="600"/>
+
 # **AJUDA**
 
 * Para obter ajuda e/ou tirar dúvidas, entre em contato com o desenvolver através do e-mail:
