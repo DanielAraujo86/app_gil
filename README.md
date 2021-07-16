@@ -23,7 +23,7 @@
 # **NAVEGAÇÃO DAS TELAS**
 
 
-<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Navega%C3%A7%C3%A3o%20das%20telas.jpg" width="600" height="600"/>
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Navega%C3%A7%C3%A3o%20das%20telas.jpg" width="1200" height="600"/>
 
 # **AJUDA**
 
