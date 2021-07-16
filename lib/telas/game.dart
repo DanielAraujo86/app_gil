@@ -68,22 +68,22 @@ class _GamePageState extends State<GamePage> {
                                 "$nome,",
                                 textAlign: TextAlign.center,
                                 style: TextStyle(
-                                    fontSize: 22, fontWeight: FontWeight.bold),
+                                    fontSize: 25, fontWeight: FontWeight.bold),
                               ),
                             ),
                             ListTile(
                               title: Text(
-                                "Ajude a amiguinha Maria colocar resíduo no local correto.",
+                                "Ajude a amiguinha Maria colocar resíduo no local correto!",
                                 textAlign: TextAlign.center,
                                 style: TextStyle(
-                                    fontSize: 22, fontWeight: FontWeight.bold),
+                                    fontSize: 25, fontWeight: FontWeight.bold),
                               ),
                             ),
                             ListTile(
                               title: Text("Acertos: $acertos\n",
                                   textAlign: TextAlign.center,
                                   style: TextStyle(
-                                    fontSize: 26,
+                                    fontSize: 25,
                                   )),
                             ),
                             Padding(
@@ -198,7 +198,7 @@ class _GamePageState extends State<GamePage> {
                                       });
                                       if (acertos > 4) {
                                         Navigator.of(context)
-                                            .pushNamed('resultado');
+                                            .pushNamed('Resultado');
                                       }
                                     }
                                   },
