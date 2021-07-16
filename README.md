@@ -11,13 +11,13 @@
 
 # **WIDGET TREE**
 
-<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/HomePage.jpg" width="800" height="600"/>
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/HomePage.jpg" width="600" height="600"/>
 
-<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Game.jpg" width="400" height="600"/>
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Game.jpg" width="600" height="600"/>
 
-<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Resultado.jpg" width="400" height="600"/>
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Resultado.jpg" width="600" height="600"/>
 
-<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Impacto.jpg" width="400" height="600"/>
+<img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Impacto.jpg" width="600" height="600"/>
 
 
 # **NAVEGAÇÃO DAS TELAS**
