@@ -9,6 +9,10 @@
 
 * Animações sobre informações dos itens
 
+# ** VÍDEO DE MARKETING**
+
+<a href="https://drive.google.com/file/d/1U9awzHbpgeEuD3kMaHHwQzCDCRiUkbs2/view?usp=sharing"/></a>
+
 # **WIDGET TREE**
 
 <img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/HomePage.jpg" width="600" height="600"/>
@@ -21,7 +25,6 @@
 
 
 # **NAVEGAÇÃO DAS TELAS**
-
 
 <img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Navega%C3%A7%C3%A3o%20das%20telas.jpg" width="1200" height="600"/>
 
