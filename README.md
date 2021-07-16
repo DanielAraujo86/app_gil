@@ -11,7 +11,7 @@
 
 # ** VÍDEO DE MARKETING**
 
-<a href="https://drive.google.com/file/d/1U9awzHbpgeEuD3kMaHHwQzCDCRiUkbs2/view?usp=sharing"/></a>
+<a href="https://drive.google.com/file/d/1U9awzHbpgeEuD3kMaHHwQzCDCRiUkbs2/view?usp=sharing"/><img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/HomePage.jpg" width="600" height="600"/></a>
 
 # **WIDGET TREE**
 
