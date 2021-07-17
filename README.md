@@ -15,7 +15,7 @@
 
 # **VÍDEO DEMONSTRATIVO**
 
-<a href="https://drive.google.com/file/d/1JIYevCvvMOTmIwwNNld6BmNIw016FlB1/view?usp=sharing"/><img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/tela3.jpeg"/></a>
+<a href="https://drive.google.com/file/d/1JIYevCvvMOTmIwwNNld6BmNIw016FlB1/view?usp=sharing"/><img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/tela3.jpeg" width="600" height="600"/></a>
 
 
 # **WIDGET TREE**
@@ -42,6 +42,7 @@
 # **ATUALIZAÇÃO**
 
 * Versão 1 (10/04/2021)
+* Versão 2 (17/07/2021)
 
 # **FRAMEWORK**
 
