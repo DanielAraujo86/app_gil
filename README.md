@@ -1,9 +1,13 @@
-<img src="https://raw.githubusercontent.com/DanielAraujo86/app_gil/main/assets/imagens/Coleta_seletiva_2.jpeg" width="400" height="400"/>
-
 # **APP COLETA SELETIVA**
 
-* Usa estratégia de gamificação para ensino da importância da coleta seletiva de resíduos sólidos dando pontos positivos para itens coletados e informações sobre o impacto ambiental dos itens.
 
+# **LOGO**
+
+<img src="https://raw.githubusercontent.com/DanielAraujo86/app_gil/main/assets/imagens/Coleta_seletiva_2.jpeg" width="400" height="400"/>
+
+# **DESCRIÇÃO DO APLICATIVO**
+
+* Usa estratégia de gamificação para ensino da importância da coleta seletiva de resíduos sólidos dando pontos positivos para itens coletados e informações sobre o impacto ambiental dos itens.
 
 # **FUNCIONALIDADES**
 
@@ -17,7 +21,6 @@
 
 <a href="https://drive.google.com/file/d/1JIYevCvvMOTmIwwNNld6BmNIw016FlB1/view?usp=sharing"/><img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/tela3.jpeg" width="600" height="600"/></a>
 
-
 # **WIDGET TREE**
 
 <img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/HomePage.jpg" width="600" height="600"/>
@@ -27,7 +30,6 @@
 <img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Resultado.jpg" width="600" height="600"/>
 
 <img src="https://github.com/DanielAraujo86/app_gil/blob/main/assets/imagens/Impacto.jpg" width="600" height="600"/>
-
 
 # **NAVEGAÇÃO DAS TELAS**
 
